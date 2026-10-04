@@ -1,4 +1,3 @@
-sudo -v
 mkdir auto-aerothemeplasma
 cd auto-aerothemeplasma
 git clone https://github.com/aeroshell-desktop/aerothemeplasma
